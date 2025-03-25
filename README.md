@@ -18,11 +18,11 @@ This project is a React News App that fetches news from an API and displays it b
 
 
 # 🌟 Features & Enhancements
-✅ Responsive UI using Bootstrap
-✅ Dynamic News Categories
-✅ Secure API Key Storage using .env
-✅ Error Handling in fetch()
-✅ Default Fallbacks for missing images & descriptions
+- ✅ Responsive UI using Bootstrap
+- ✅ Dynamic News Categories
+- ✅ Secure API Key Storage using .env
+- ✅ Error Handling in fetch()
+- ✅ Default Fallbacks for missing images & descriptions
 
 
 
